@@ -2,9 +2,9 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to anime, manga and online game xD
+- 💻 I’m currently learning everything 🤣
+- 👓 2022 Goals: Contribute more to Open Source projects
+- 🎮 Fun fact: I love to watch anime, manga and online game xD
 
 ### Connect with me:
 
